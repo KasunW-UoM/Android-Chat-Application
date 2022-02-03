@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "514636106362",
+    "project_id": "chat-application-7bf32",
+    "storage_bucket": "chat-application-7bf32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514636106362:android:d05abf4b8f4043dc0749c3",
+        "android_client_info": {
+          "package_name": "com.hasthiya.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514636106362-sf9b44r6k2irob1867f4jcurgj1jjnes.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hasthiya.chatapplication",
+            "certificate_hash": "a280afb6bf39a09b33de3968198bd9daba05d7a2"
+          }
+        },
+        {
+          "client_id": "514636106362-8vh3372t46rakuu46e02ji1rplkf2t7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJSqGpcVL2gpF9i2dfHiQNpash8229cZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514636106362-8vh3372t46rakuu46e02ji1rplkf2t7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
